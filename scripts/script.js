@@ -4,7 +4,7 @@ const SHOW = document.getElementById("show");
 
 
 function convert(dollar) {
-    return 32 * dollar
+    return 70 * dollar
 }
 
 CONV.onclick = function() {
